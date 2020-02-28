@@ -1,0 +1,37 @@
+Twitter Users
+
+Account 1
+Username:   Chai915Chloe
+Password:   tweeter123
+Email:      chai915@aucklanduni.ac.nz
+Interests:  rugby and nz sport
+
+Account 2
+Username:   BerryMalone10
+Password:   maryberrystan or maryberry for email
+Email:      blueberrymalone@gmail.com
+Interests:  cooking and baking
+
+Account 3
+Username:   GarlandTulip
+Password:   flora queen
+Email:      tulptulptulptulptulptulp@gmail.com
+Interests:  gardening, flowers
+
+Account 4
+Username:   GrantShane4
+Password:   harleydav
+Email:      g.shane1969@gmail.com
+Interests:  motorcycles and cars
+
+Account 5
+Username:   ShanStewart00
+Password:   ilovebts
+Email:      shannon4bts@gmail.com
+Interests:  science
+
+Account 6
+Username:   rachelsato5
+Password:   japanismyhome
+Email:      satorachel10@gmail.com
+Interests:  japan
