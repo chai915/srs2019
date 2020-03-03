@@ -58,20 +58,20 @@ def find_login(driver):
     try:
         waiting_func(driver, 'name', 'session[username_or_email]')
         email = driver.find_element_by_name("session[username_or_email]")
-        email.send_keys('ShanStewart00')
+        email.send_keys('GarlandTulip')
 
         waiting_func(driver, 'name', 'session[password]')
         password = driver.find_element_by_name("session[password]")
-        password.send_keys('ilovebts', Keys.ENTER)
+        password.send_keys('floraqueen', Keys.ENTER)
 
     except: 
         waiting_func(driver, 'class name', 'js-username-field')
         email = driver.find_element_by_class_name('js-username-field')
-        email.send_keys('ShanStewart00')
+        email.send_keys('GarlandTulip')
 
         waiting_func(driver, 'class name', 'js-password-field')
         password = driver.find_element_by_class_name('js-password-field')
-        password.send_keys('ilovebts', Keys.ENTER)
+        password.send_keys('floraqueen', Keys.ENTER)
 
 def scroll_function(driver, height): #, last_height):
     #Scroll down the page, get tweets
